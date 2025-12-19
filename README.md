@@ -1,7 +1,7 @@
 # PEC3 · Manovich Reloaded  
 ## Las gafas de Manovich en la cultura digital contemporánea
 
-**Autor:** Jesús  
+**Autor:** Jesús Lebrón  
 **Asignatura:** Cultura Digital  
 **PEC:** 3  
 **Repositorio:** PEC3_Manovich_Reloaded  
