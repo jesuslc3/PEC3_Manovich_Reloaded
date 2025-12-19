@@ -171,8 +171,8 @@ Este trabajo se distribuye bajo una licencia
 
 - Manovich, L. (2013). *El software toma el mando*.  
 - Museo del Louvre – *Mona Lisa: Beyond the Glass*  
-  https://www.louvre.fr  
+  https://www.louvre.fr/en/explore/life-at-the-museum/mona-lisa-beyond-the-glass-the-louvre-s-first-virtual-reality-experience
 - National Film Board of Canada – *The Book of Distance*  
-  https://www.nfb.ca  
+  https://collection.nfb.ca/interactive/the_book_of_distance
 
 
